@@ -2,13 +2,13 @@
 
 I'm an aspiring software engineer looking to develop my skills and grow with the field. I'm passionate about finding simple but effective solutions to complex problems and finding interesting and useful statistics in mundane data. I recently graduated from NYU in 2024 with a Bachelor's degree in Computer and Data Science, and I'm looking to put my skills to the test.  
 
-####Languages:
+#### Languages:
 - Python 
 - Java
 - Typescript
 - Javascript
 
-####Currently:
+#### Currently:
 I'm looking to reach Full Stack status developing an album recommendation website using Django and Reactjs. 
 <!--
 **alex-huh/Alex-Huh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
